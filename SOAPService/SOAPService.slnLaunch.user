@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SOAPService\\SOAPService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Client1\\Client1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
